@@ -2225,40 +2225,40 @@
 		)
 	)
 	(junction
-		(at 74.93 91.44)
+		(at 74.93 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "00f3bc3c-c89b-4534-b0fa-99c1e21b5b30")
 	)
 	(junction
-		(at 196.85 109.22)
+		(at 196.85 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a32a183-d5f2-4edf-b344-61677cc80a24")
 	)
 	(junction
-		(at 74.93 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0fb06cb1-dc67-4e78-8023-99ec07679c5a")
-	)
-	(junction
-		(at 180.34 109.22)
+		(at 180.34 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "110d60c8-4014-43b3-83d6-78b96c68be9f")
 	)
 	(junction
-		(at 57.15 109.22)
+		(at 57.15 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "113af848-7d6a-4f69-847e-678f11335510")
 	)
 	(junction
-		(at 167.64 114.3)
+		(at 167.64 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17c82451-f3ff-467d-96bd-d43262eb07a1")
+	)
+	(junction
+		(at 196.85 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c55f3fa-d454-422c-91e5-9c16af8d3943")
 	)
 	(junction
 		(at 80.01 80.01)
@@ -2267,31 +2267,25 @@
 		(uuid "1f68d5bf-87c8-4182-aec6-79a668fcbc61")
 	)
 	(junction
-		(at 162.56 91.44)
+		(at 162.56 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "24bb12b0-d8c9-4ffa-94a7-ddcb74f71ec0")
 	)
 	(junction
-		(at 185.42 96.52)
+		(at 185.42 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "251aeee0-ee88-4843-b289-a9e17b82d1c3")
 	)
 	(junction
-		(at 144.78 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "262802e0-b48b-430c-a67a-860c5867572a")
-	)
-	(junction
-		(at 62.23 114.3)
+		(at 62.23 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2946a262-e711-4f44-a7df-e57f55d56b8a")
 	)
 	(junction
-		(at 196.85 91.44)
+		(at 196.85 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30ea42c8-7f65-422a-a42e-e3f343108d4f")
@@ -2303,55 +2297,61 @@
 		(uuid "33411d1c-93d4-42c8-8250-27713969a347")
 	)
 	(junction
-		(at 149.86 96.52)
+		(at 149.86 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "33b764ae-6908-451c-b464-9347fe320ee3")
 	)
 	(junction
-		(at 39.37 109.22)
+		(at 39.37 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a7bb725-414a-4b7b-92c0-feef585ac159")
 	)
 	(junction
-		(at 97.79 114.3)
+		(at 97.79 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f144d07-3699-4f7a-a3bc-ddab870757dc")
 	)
 	(junction
-		(at 109.22 128.27)
+		(at 109.22 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "442da2a6-3c96-4054-bc5b-f0665dc7c7eb")
 	)
 	(junction
-		(at 149.86 114.3)
+		(at 149.86 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44ab0341-054b-455c-a135-2550b8e1cb30")
 	)
 	(junction
-		(at 180.34 91.44)
+		(at 180.34 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f5c578b-e3cc-47cd-9f14-18659b190e1e")
 	)
 	(junction
-		(at 80.01 96.52)
+		(at 80.01 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f9c92cc-3eef-439e-b678-565023c9bbbc")
 	)
 	(junction
-		(at 62.23 140.97)
+		(at 92.71 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50e785e4-8571-45da-9367-5f11ba88572a")
+	)
+	(junction
+		(at 62.23 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5166cac6-8328-4173-98a2-dae160b00d9a")
 	)
 	(junction
-		(at 127 109.22)
+		(at 127 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "56732102-dee5-4bfb-a930-57afb9f19adb")
@@ -2363,25 +2363,19 @@
 		(uuid "5bdf929f-6748-4396-8cdf-41909a811675")
 	)
 	(junction
-		(at 92.71 125.73)
+		(at 180.34 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7071d576-e149-4519-97ba-1556b161e8d9")
+		(uuid "5f724378-3077-46f2-96db-1256bb513079")
 	)
 	(junction
-		(at 39.37 91.44)
+		(at 39.37 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71ffccee-451a-4634-b640-f0ad120dd352")
 	)
 	(junction
-		(at 39.37 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72e27a19-64de-40ed-ab0b-2844e68db7d8")
-	)
-	(junction
-		(at 80.01 114.3)
+		(at 80.01 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "781c63f5-71be-4e8f-854b-de503646a264")
@@ -2393,16 +2387,16 @@
 		(uuid "7975f86d-4ea1-40db-a565-c16f138d2000")
 	)
 	(junction
-		(at 92.71 91.44)
+		(at 57.15 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d9544cb-5e7c-4756-af12-5bc5b073c873")
+	)
+	(junction
+		(at 92.71 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7fb403c2-b890-4dd3-8428-002c29444c2e")
-	)
-	(junction
-		(at 196.85 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "88a2e072-d659-4581-beb2-2373b198447f")
 	)
 	(junction
 		(at 62.23 80.01)
@@ -2411,58 +2405,58 @@
 		(uuid "8c891b39-02ca-43ec-82c2-39e678e1a255")
 	)
 	(junction
-		(at 162.56 123.19)
+		(at 39.37 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a390c339-f4d7-4e83-8538-902bef385c82")
+		(uuid "a3a2a7f5-e34f-4cb6-a021-482cfb4eafa1")
 	)
 	(junction
-		(at 149.86 140.97)
+		(at 149.86 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4d59be0-c9b2-4939-83e2-ad03d7f57ad2")
 	)
 	(junction
-		(at 57.15 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a6bfa37d-9849-4a77-b22b-6e47bd727391")
-	)
-	(junction
-		(at 62.23 96.52)
+		(at 62.23 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aed599b9-3dae-4b7d-aa70-7258679daedc")
 	)
 	(junction
-		(at 185.42 140.97)
+		(at 185.42 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0d15027-b29a-40c7-b4ae-5b944efc8e55")
 	)
 	(junction
-		(at 162.56 109.22)
+		(at 144.78 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4769626-2e4f-4efe-87a4-f18a28af9123")
+	)
+	(junction
+		(at 162.56 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b63c38fa-64a7-44db-8aff-8a330531c0a1")
 	)
 	(junction
-		(at 167.64 96.52)
+		(at 167.64 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b89b094b-fa93-498a-aa1d-cd3bdaf49932")
 	)
 	(junction
-		(at 180.34 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b8b82173-d5c9-45b3-828c-774fd327efe1")
-	)
-	(junction
-		(at 167.64 140.97)
+		(at 167.64 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b916b136-49eb-46b8-926d-9cd07a622eda")
+	)
+	(junction
+		(at 74.93 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bfaecc97-e75a-4b14-9a59-e34edec46d2a")
 	)
 	(junction
 		(at 185.42 80.01)
@@ -2471,79 +2465,85 @@
 		(uuid "c14bb02a-1c24-41a6-84fe-cd6dc92a63e4")
 	)
 	(junction
-		(at 185.42 114.3)
+		(at 185.42 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c82f29c2-26f1-4d43-8197-022aee99d965")
 	)
 	(junction
-		(at 144.78 91.44)
+		(at 144.78 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf2404be-4e95-4469-90fa-d11ae3fc42ed")
 	)
 	(junction
-		(at 97.79 140.97)
+		(at 97.79 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4998aa8-845e-46f5-9dbd-0c96cde8678a")
 	)
 	(junction
-		(at 109.22 91.44)
+		(at 109.22 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d9a7039d-80c4-4248-9c8f-1400f2e25165")
 	)
 	(junction
-		(at 127 91.44)
+		(at 127 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db5a0886-fbed-42bf-b03f-8ae499637be8")
 	)
 	(junction
-		(at 109.22 109.22)
+		(at 162.56 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd4578cf-5373-4387-9e43-1ca5d95d15ed")
+	)
+	(junction
+		(at 109.22 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de5bb651-2cc1-4260-bb58-cbf3b549e3fa")
 	)
 	(junction
-		(at 74.93 109.22)
+		(at 74.93 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "de9eb48d-95bf-4672-aaa6-7a1325d30cb6")
 	)
 	(junction
-		(at 97.79 96.52)
+		(at 97.79 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2e92fdb-afb2-4754-ba18-90460f5692f1")
 	)
 	(junction
-		(at 144.78 109.22)
+		(at 144.78 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7119f6a-bbad-42c0-8475-f5652079b500")
 	)
 	(junction
-		(at 127 128.27)
+		(at 127 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ebdc7d6a-111e-44e2-af49-c910b278351d")
 	)
 	(junction
-		(at 57.15 91.44)
+		(at 57.15 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f320b4ae-9430-4e0b-8e2d-e137f2c7b1d1")
 	)
 	(junction
-		(at 80.01 140.97)
+		(at 80.01 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8ccfc4d-4a5b-4d96-9354-92a1557715cc")
 	)
 	(junction
-		(at 92.71 109.22)
+		(at 92.71 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb86bfa9-ce22-48ec-bca0-c47b34bd1086")
@@ -2560,7 +2560,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 74.93) (xy 127 91.44)
+			(xy 127 74.93) (xy 127 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2570,17 +2570,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 125.73) (xy 144.78 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03fa5a1d-aeaa-4001-8ee5-a2fd27393dfd")
-	)
-	(wire
-		(pts
-			(xy 80.01 96.52) (xy 97.79 96.52)
+			(xy 80.01 109.22) (xy 97.79 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2590,7 +2580,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 114.3) (xy 201.93 114.3)
+			(xy 185.42 123.19) (xy 201.93 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2600,7 +2590,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 140.97) (xy 114.3 140.97)
+			(xy 97.79 142.24) (xy 114.3 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2620,7 +2610,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 96.52) (xy 149.86 96.52)
+			(xy 132.08 109.22) (xy 149.86 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2630,7 +2620,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 114.3) (xy 185.42 114.3)
+			(xy 167.64 123.19) (xy 185.42 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2640,7 +2630,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 74.93) (xy 92.71 91.44)
+			(xy 92.71 74.93) (xy 92.71 95.25)
 		)
 		(stroke
 			(width 0)
@@ -2660,17 +2650,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 109.22) (xy 180.34 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b964109-3cf4-46fe-8d39-3f5ef602dc8e")
-	)
-	(wire
-		(pts
-			(xy 109.22 128.27) (xy 127 128.27)
+			(xy 109.22 129.54) (xy 127 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2680,7 +2660,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 91.44) (xy 144.78 109.22)
+			(xy 144.78 104.14) (xy 144.78 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2690,7 +2670,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 91.44) (xy 196.85 109.22)
+			(xy 196.85 104.14) (xy 196.85 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2700,7 +2680,17 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 140.97) (xy 167.64 140.97)
+			(xy 39.37 82.55) (xy 196.85 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23f7b516-db7b-4412-80b4-6ad911e9d543")
+	)
+	(wire
+		(pts
+			(xy 149.86 142.24) (xy 167.64 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2710,7 +2700,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 140.97) (xy 97.79 140.97)
+			(xy 80.01 142.24) (xy 97.79 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2720,7 +2710,17 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 91.44) (xy 162.56 109.22)
+			(xy 92.71 104.14) (xy 92.71 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "298dc631-acd1-4a77-a95b-7084cc7de2b6")
+	)
+	(wire
+		(pts
+			(xy 162.56 104.14) (xy 162.56 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2730,7 +2730,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 109.22) (xy 144.78 125.73)
+			(xy 144.78 118.11) (xy 144.78 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2740,17 +2740,17 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 109.22) (xy 162.56 123.19)
+			(xy 144.78 95.25) (xy 144.78 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ea69f07-11e9-4d39-b6c5-5fca81bbe89d")
+		(uuid "2e65eed8-a1c3-40ed-b5a7-2adf3ae9e96b")
 	)
 	(wire
 		(pts
-			(xy 127 128.27) (xy 127 135.89)
+			(xy 127 129.54) (xy 127 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2780,7 +2780,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 91.44) (xy 127 109.22)
+			(xy 127 104.14) (xy 127 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2790,7 +2790,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 140.97) (xy 80.01 140.97)
+			(xy 62.23 142.24) (xy 80.01 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2800,7 +2800,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 96.52) (xy 62.23 96.52)
+			(xy 44.45 109.22) (xy 62.23 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2810,17 +2810,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 120.65) (xy 180.34 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "442316e4-a6ad-4213-829d-2570a26e7efb")
-	)
-	(wire
-		(pts
-			(xy 149.86 96.52) (xy 167.64 96.52)
+			(xy 149.86 109.22) (xy 167.64 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2830,7 +2820,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 114.3) (xy 167.64 114.3)
+			(xy 149.86 123.19) (xy 167.64 123.19)
 		)
 		(stroke
 			(width 0)
@@ -2840,7 +2830,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 74.93) (xy 109.22 91.44)
+			(xy 109.22 74.93) (xy 109.22 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2850,33 +2840,13 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 109.22) (xy 74.93 123.19)
+			(xy 92.71 95.25) (xy 92.71 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4db8de67-8735-420a-931d-d8a7fbdd5f4b")
-	)
-	(wire
-		(pts
-			(xy 39.37 116.84) (xy 196.85 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ec25fab-e541-4d6d-8547-ad991851a2e3")
-	)
-	(wire
-		(pts
-			(xy 92.71 125.73) (xy 92.71 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50ada7b7-193f-4a95-8584-042af4dfdeed")
+		(uuid "49176bc6-f221-4624-a50d-6f0c10e495ba")
 	)
 	(wire
 		(pts
@@ -2890,27 +2860,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 109.22) (xy 57.15 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66943c59-5140-4191-90d2-1ab58f785f77")
-	)
-	(wire
-		(pts
-			(xy 196.85 116.84) (xy 196.85 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e241649-ac9b-4fcc-80a0-9b8a4a049fc9")
-	)
-	(wire
-		(pts
-			(xy 196.85 74.93) (xy 196.85 91.44)
+			(xy 196.85 74.93) (xy 196.85 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2920,7 +2870,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 96.52) (xy 201.93 96.52)
+			(xy 185.42 109.22) (xy 201.93 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2940,7 +2890,17 @@
 	)
 	(wire
 		(pts
-			(xy 127 109.22) (xy 127 128.27)
+			(xy 74.93 91.44) (xy 74.93 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ec1cf5f-90cd-4264-9abe-fd672d24d452")
+	)
+	(wire
+		(pts
+			(xy 127 118.11) (xy 127 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2950,7 +2910,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 140.97) (xy 185.42 140.97)
+			(xy 167.64 142.24) (xy 185.42 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2960,17 +2920,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 123.19) (xy 162.56 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "823aa423-f046-45f4-805f-9df3b36356da")
-	)
-	(wire
-		(pts
-			(xy 167.64 96.52) (xy 185.42 96.52)
+			(xy 167.64 109.22) (xy 185.42 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2980,7 +2930,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 120.65) (xy 180.34 135.89)
+			(xy 180.34 118.11) (xy 180.34 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2990,7 +2940,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 114.3) (xy 80.01 114.3)
+			(xy 62.23 123.19) (xy 80.01 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3000,13 +2950,23 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 96.52) (xy 114.3 96.52)
+			(xy 97.79 109.22) (xy 114.3 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8a3d929b-2911-461c-a7e2-bb52cc307c9c")
+	)
+	(wire
+		(pts
+			(xy 196.85 82.55) (xy 196.85 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a8ce846-87bb-4cea-a5ac-042327cc7fe8")
 	)
 	(wire
 		(pts
@@ -3020,7 +2980,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 114.3) (xy 149.86 114.3)
+			(xy 132.08 123.19) (xy 149.86 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3040,7 +3000,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 91.44) (xy 109.22 109.22)
+			(xy 109.22 104.14) (xy 109.22 118.11)
 		)
 		(stroke
 			(width 0)
@@ -3060,7 +3020,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 123.19) (xy 162.56 135.89)
+			(xy 162.56 118.11) (xy 162.56 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3070,7 +3030,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 109.22) (xy 92.71 125.73)
+			(xy 92.71 118.11) (xy 92.71 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3080,7 +3040,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 128.27) (xy 109.22 135.89)
+			(xy 109.22 129.54) (xy 109.22 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3100,26 +3060,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 109.22) (xy 39.37 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa111458-4abf-4eee-827b-e61d170d4c14")
-	)
-	(wire
-		(pts
-			(xy 92.71 125.73) (xy 144.78 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ace764a3-3c9a-4925-bc8d-d8e0e1f8b103")
-	)
-	(wire
-		(pts
 			(xy 132.08 80.01) (xy 149.86 80.01)
 		)
 		(stroke
@@ -3130,7 +3070,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 140.97) (xy 201.93 140.97)
+			(xy 185.42 142.24) (xy 201.93 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3150,7 +3090,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 123.19) (xy 74.93 135.89)
+			(xy 74.93 118.11) (xy 74.93 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3160,7 +3100,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 91.44) (xy 74.93 109.22)
+			(xy 74.93 104.14) (xy 74.93 118.11)
 		)
 		(stroke
 			(width 0)
@@ -3170,7 +3110,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 74.93) (xy 57.15 91.44)
+			(xy 57.15 74.93) (xy 57.15 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3180,7 +3120,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 114.3) (xy 62.23 114.3)
+			(xy 44.45 123.19) (xy 62.23 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3190,7 +3130,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 96.52) (xy 80.01 96.52)
+			(xy 62.23 109.22) (xy 80.01 109.22)
 		)
 		(stroke
 			(width 0)
@@ -3200,17 +3140,17 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 91.44) (xy 92.71 109.22)
+			(xy 57.15 86.36) (xy 180.34 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bec54b8b-df75-4c82-a4aa-f7d47d7153dc")
+		(uuid "c51e3cdc-ebc7-4611-80a8-ad39f4e1d6a8")
 	)
 	(wire
 		(pts
-			(xy 57.15 120.65) (xy 57.15 135.89)
+			(xy 57.15 118.11) (xy 57.15 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3220,7 +3160,17 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 140.97) (xy 62.23 140.97)
+			(xy 39.37 82.55) (xy 39.37 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbcb9cc7-cd09-4fd9-b4ab-7aab27997b6b")
+	)
+	(wire
+		(pts
+			(xy 44.45 142.24) (xy 62.23 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3230,7 +3180,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 91.44) (xy 57.15 109.22)
+			(xy 57.15 104.14) (xy 57.15 118.11)
 		)
 		(stroke
 			(width 0)
@@ -3240,7 +3190,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 74.93) (xy 144.78 91.44)
+			(xy 144.78 74.93) (xy 144.78 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3250,7 +3200,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 140.97) (xy 149.86 140.97)
+			(xy 132.08 142.24) (xy 149.86 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3260,7 +3210,27 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 116.84) (xy 39.37 135.89)
+			(xy 162.56 91.44) (xy 162.56 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3c94dc1-9835-4b63-9c9d-70ffc0e84d84")
+	)
+	(wire
+		(pts
+			(xy 180.34 86.36) (xy 180.34 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4554738-b123-4c24-bf54-ae10bf9f2334")
+	)
+	(wire
+		(pts
+			(xy 39.37 118.11) (xy 39.37 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3270,7 +3240,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 114.3) (xy 114.3 114.3)
+			(xy 97.79 123.19) (xy 114.3 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3280,7 +3250,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 91.44) (xy 180.34 109.22)
+			(xy 180.34 104.14) (xy 180.34 118.11)
 		)
 		(stroke
 			(width 0)
@@ -3290,7 +3260,17 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 109.22) (xy 109.22 128.27)
+			(xy 74.93 91.44) (xy 162.56 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e87a6b17-830d-42e0-85c7-725f5f616afb")
+	)
+	(wire
+		(pts
+			(xy 109.22 118.11) (xy 109.22 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3300,7 +3280,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 74.93) (xy 180.34 91.44)
+			(xy 180.34 74.93) (xy 180.34 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3310,7 +3290,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 114.3) (xy 97.79 114.3)
+			(xy 80.01 123.19) (xy 97.79 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3320,7 +3300,17 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 109.22) (xy 196.85 116.84)
+			(xy 92.71 95.25) (xy 144.78 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee36d87a-d7c9-4953-8d39-3008a2083997")
+	)
+	(wire
+		(pts
+			(xy 196.85 118.11) (xy 196.85 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3330,7 +3320,17 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 91.44) (xy 39.37 109.22)
+			(xy 57.15 86.36) (xy 57.15 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f28a258a-f12c-40be-8660-416a69dcbd91")
+	)
+	(wire
+		(pts
+			(xy 39.37 104.14) (xy 39.37 118.11)
 		)
 		(stroke
 			(width 0)
@@ -3340,7 +3340,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 74.93) (xy 39.37 91.44)
+			(xy 39.37 74.93) (xy 39.37 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3404,7 +3404,7 @@
 	)
 	(global_label "ROW7"
 		(shape input)
-		(at 201.93 114.3 0)
+		(at 201.93 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3414,7 +3414,7 @@
 		)
 		(uuid "0522376b-2ad0-4d52-be60-554e2fa20893")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.1766 114.3 0)
+			(at 210.1766 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3470,7 +3470,7 @@
 	)
 	(global_label "ROW8"
 		(shape input)
-		(at 201.93 140.97 0)
+		(at 201.93 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3480,7 +3480,7 @@
 		)
 		(uuid "214ce7bf-ec21-41bb-b4cc-e98f5e7fb7ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.1766 140.97 0)
+			(at 210.1766 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3536,7 +3536,7 @@
 	)
 	(global_label "ROW4"
 		(shape input)
-		(at 114.3 140.97 0)
+		(at 114.3 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3546,7 +3546,7 @@
 		)
 		(uuid "2b8795d0-2789-4a9b-878b-56c83c58c6b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.5466 140.97 0)
+			(at 122.5466 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3558,7 +3558,7 @@
 	)
 	(global_label "ROW6"
 		(shape input)
-		(at 201.93 96.52 0)
+		(at 201.93 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3568,7 +3568,7 @@
 		)
 		(uuid "41b1592c-77f0-45d6-955d-0b967e72da6c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.1766 96.52 0)
+			(at 210.1766 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4086,7 +4086,7 @@
 	)
 	(global_label "ROW3"
 		(shape input)
-		(at 114.3 114.3 0)
+		(at 114.3 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4096,7 +4096,7 @@
 		)
 		(uuid "9f869e48-a84d-4644-b651-f82e1506923b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.5466 114.3 0)
+			(at 122.5466 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4284,7 +4284,7 @@
 	)
 	(global_label "ROW2"
 		(shape input)
-		(at 114.3 96.52 0)
+		(at 114.3 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4294,7 +4294,7 @@
 		)
 		(uuid "e4a3f2d0-867f-46b0-b344-ac40ac4a65ec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.5466 96.52 0)
+			(at 122.5466 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4374,7 +4374,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 77.47 77.47 0)
 			(effects
 				(font
@@ -4418,7 +4418,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 77.47 111.76 0)
+		(at 77.47 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4427,7 +4427,7 @@
 		(fields_autoplaced yes)
 		(uuid "02811201-14ab-45ce-8978-b1868ff28c96")
 		(property "Reference" "SW13"
-			(at 77.47 104.14 0)
+			(at 77.47 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4435,15 +4435,15 @@
 			)
 		)
 		(property "Value" "D"
-			(at 77.47 106.68 0)
+			(at 77.47 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 77.47 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 77.47 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4452,7 +4452,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 111.76 0)
+			(at 77.47 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4461,7 +4461,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 77.47 111.76 0)
+			(at 77.47 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4486,7 +4486,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 41.91 93.98 0)
+		(at 41.91 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4495,7 +4495,7 @@
 		(fields_autoplaced yes)
 		(uuid "048d84ee-d513-4227-85c7-5b6c26214493")
 		(property "Reference" "SW6"
-			(at 41.91 86.36 0)
+			(at 41.91 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4503,15 +4503,15 @@
 			)
 		)
 		(property "Value" "Q"
-			(at 41.91 88.9 0)
+			(at 41.91 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 41.91 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 41.91 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4520,7 +4520,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 93.98 0)
+			(at 41.91 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4529,7 +4529,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 41.91 93.98 0)
+			(at 41.91 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4578,7 +4578,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 111.76 77.47 0)
 			(effects
 				(font
@@ -4646,7 +4646,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 77.47 40.64 0)
 			(effects
 				(font
@@ -4699,7 +4699,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 165.1 111.76 0)
+		(at 165.1 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4708,7 +4708,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d17a3f4-7230-4145-8814-be39732f7ed8")
 		(property "Reference" "SW31"
-			(at 165.1 104.14 0)
+			(at 165.1 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4716,15 +4716,15 @@
 			)
 		)
 		(property "Value" "K"
-			(at 165.1 106.68 0)
+			(at 165.1 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 165.1 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 165.1 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4733,7 +4733,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 111.76 0)
+			(at 165.1 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4742,7 +4742,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 165.1 111.76 0)
+			(at 165.1 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4767,7 +4767,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 147.32 93.98 0)
+		(at 147.32 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4776,7 +4776,7 @@
 		(fields_autoplaced yes)
 		(uuid "14110414-aeb6-4e9c-bbc5-8f38b23e6694")
 		(property "Reference" "SW26"
-			(at 147.32 86.36 0)
+			(at 147.32 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4784,15 +4784,15 @@
 			)
 		)
 		(property "Value" "U"
-			(at 147.32 88.9 0)
+			(at 147.32 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 147.32 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 147.32 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4801,7 +4801,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.32 93.98 0)
+			(at 147.32 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4810,7 +4810,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 147.32 93.98 0)
+			(at 147.32 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4835,7 +4835,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 182.88 138.43 0)
+		(at 182.88 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4844,7 +4844,7 @@
 		(fields_autoplaced yes)
 		(uuid "14f10953-4e25-41ba-adfd-f7c469927beb")
 		(property "Reference" "SW36"
-			(at 182.88 130.81 0)
+			(at 182.88 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4852,15 +4852,15 @@
 			)
 		)
 		(property "Value" "SYMBOL_SHIFT"
-			(at 182.88 133.35 0)
+			(at 182.88 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 182.88 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 182.88 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4869,7 +4869,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 182.88 138.43 0)
+			(at 182.88 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4878,7 +4878,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 182.88 138.43 0)
+			(at 182.88 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4903,7 +4903,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 165.1 138.43 0)
+		(at 165.1 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4912,7 +4912,7 @@
 		(fields_autoplaced yes)
 		(uuid "156d66af-3fb3-4a1c-9a42-df9a8ad43b13")
 		(property "Reference" "SW32"
-			(at 165.1 130.81 0)
+			(at 165.1 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4920,15 +4920,15 @@
 			)
 		)
 		(property "Value" "M"
-			(at 165.1 133.35 0)
+			(at 165.1 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 165.1 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 165.1 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4937,7 +4937,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 138.43 0)
+			(at 165.1 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4946,7 +4946,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 165.1 138.43 0)
+			(at 165.1 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4971,7 +4971,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 129.54 138.43 0)
+		(at 129.54 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4980,7 +4980,7 @@
 		(fields_autoplaced yes)
 		(uuid "16dcbab2-afda-49a8-b8a3-668deec8d4dd")
 		(property "Reference" "SW24"
-			(at 129.54 130.81 0)
+			(at 129.54 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4988,15 +4988,15 @@
 			)
 		)
 		(property "Value" "B"
-			(at 129.54 133.35 0)
+			(at 129.54 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 129.54 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 129.54 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5005,7 +5005,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 138.43 0)
+			(at 129.54 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5014,7 +5014,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 129.54 138.43 0)
+			(at 129.54 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5039,7 +5039,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 78.74 173.99 0)
+		(at 68.58 173.99 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -5048,7 +5048,7 @@
 		(fields_autoplaced yes)
 		(uuid "2214496c-0857-464e-9ef3-dc28c45deb3b")
 		(property "Reference" "H7"
-			(at 81.28 172.7199 0)
+			(at 71.12 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5057,7 +5057,7 @@
 			)
 		)
 		(property "Value" "PCB"
-			(at 81.28 175.2599 0)
+			(at 71.12 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5065,8 +5065,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 78.74 173.99 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 68.58 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5075,7 +5075,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 78.74 173.99 0)
+			(at 68.58 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5084,7 +5084,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 78.74 173.99 0)
+			(at 68.58 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5103,7 +5103,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 77.47 93.98 0)
+		(at 77.47 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5112,7 +5112,7 @@
 		(fields_autoplaced yes)
 		(uuid "23cbe9d6-4509-44e7-a033-fa52f49a6733")
 		(property "Reference" "SW8"
-			(at 77.47 86.36 0)
+			(at 77.47 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5120,15 +5120,15 @@
 			)
 		)
 		(property "Value" "E"
-			(at 77.47 88.9 0)
+			(at 77.47 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 77.47 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 77.47 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5137,7 +5137,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 93.98 0)
+			(at 77.47 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5146,7 +5146,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 77.47 93.98 0)
+			(at 77.47 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5195,7 +5195,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 147.32 77.47 0)
 			(effects
 				(font
@@ -5263,7 +5263,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 41.91 77.47 0)
 			(effects
 				(font
@@ -5307,7 +5307,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 182.88 93.98 0)
+		(at 182.88 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5316,7 +5316,7 @@
 		(fields_autoplaced yes)
 		(uuid "36c3c134-fcd3-4e22-b62a-d0a7158b7d47")
 		(property "Reference" "SW34"
-			(at 182.88 86.36 0)
+			(at 182.88 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5324,15 +5324,15 @@
 			)
 		)
 		(property "Value" "O"
-			(at 182.88 88.9 0)
+			(at 182.88 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 182.88 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 182.88 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5341,7 +5341,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 182.88 93.98 0)
+			(at 182.88 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5350,7 +5350,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 182.88 93.98 0)
+			(at 182.88 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5375,7 +5375,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 147.32 138.43 0)
+		(at 147.32 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5384,7 +5384,7 @@
 		(fields_autoplaced yes)
 		(uuid "40af8568-edb3-4456-80a8-e19907864b74")
 		(property "Reference" "SW28"
-			(at 147.32 130.81 0)
+			(at 147.32 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5392,15 +5392,15 @@
 			)
 		)
 		(property "Value" "N"
-			(at 147.32 133.35 0)
+			(at 147.32 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 147.32 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 147.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5409,7 +5409,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.32 138.43 0)
+			(at 147.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5418,7 +5418,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 147.32 138.43 0)
+			(at 147.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5443,7 +5443,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 36.83 165.1 0)
+		(at 46.99 165.1 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -5452,7 +5452,7 @@
 		(fields_autoplaced yes)
 		(uuid "4244d7b0-4e1b-4720-ac7e-b368b2a49a54")
 		(property "Reference" "H2"
-			(at 39.37 163.8299 0)
+			(at 49.53 163.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5461,7 +5461,7 @@
 			)
 		)
 		(property "Value" "PCB"
-			(at 39.37 166.3699 0)
+			(at 49.53 166.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5469,8 +5469,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 36.83 165.1 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 46.99 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,7 +5479,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 165.1 0)
+			(at 46.99 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5488,7 +5488,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 36.83 165.1 0)
+			(at 46.99 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5507,7 +5507,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 59.69 93.98 0)
+		(at 59.69 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5516,7 +5516,7 @@
 		(fields_autoplaced yes)
 		(uuid "4696114f-34b2-435e-bb90-af2ec86fb449")
 		(property "Reference" "SW7"
-			(at 59.69 86.36 0)
+			(at 59.69 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5524,15 +5524,15 @@
 			)
 		)
 		(property "Value" "W"
-			(at 59.69 88.9 0)
+			(at 59.69 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 59.69 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 59.69 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5541,7 +5541,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.69 93.98 0)
+			(at 59.69 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5550,7 +5550,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 59.69 93.98 0)
+			(at 59.69 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5575,7 +5575,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 95.25 93.98 0)
+		(at 95.25 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5584,7 +5584,7 @@
 		(fields_autoplaced yes)
 		(uuid "48544c91-c287-4fe5-b6bf-6d44a927d0b2")
 		(property "Reference" "SW9"
-			(at 95.25 86.36 0)
+			(at 95.25 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5592,15 +5592,15 @@
 			)
 		)
 		(property "Value" "R"
-			(at 95.25 88.9 0)
+			(at 95.25 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 95.25 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 95.25 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5609,7 +5609,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 93.98 0)
+			(at 95.25 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5618,7 +5618,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 95.25 93.98 0)
+			(at 95.25 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5643,7 +5643,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 165.1 93.98 0)
+		(at 165.1 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5652,7 +5652,7 @@
 		(fields_autoplaced yes)
 		(uuid "556c5628-c499-4b33-b085-564214b6e30e")
 		(property "Reference" "SW30"
-			(at 165.1 86.36 0)
+			(at 165.1 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5660,15 +5660,15 @@
 			)
 		)
 		(property "Value" "I"
-			(at 165.1 88.9 0)
+			(at 165.1 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 165.1 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 165.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5677,7 +5677,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 93.98 0)
+			(at 165.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5686,7 +5686,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 165.1 93.98 0)
+			(at 165.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5711,7 +5711,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 147.32 111.76 0)
+		(at 147.32 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5720,7 +5720,7 @@
 		(fields_autoplaced yes)
 		(uuid "57ad008b-39ed-4879-86fd-bd768596db88")
 		(property "Reference" "SW27"
-			(at 147.32 104.14 0)
+			(at 147.32 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5728,15 +5728,15 @@
 			)
 		)
 		(property "Value" "J"
-			(at 147.32 106.68 0)
+			(at 147.32 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 147.32 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 147.32 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5745,7 +5745,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.32 111.76 0)
+			(at 147.32 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5754,7 +5754,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 147.32 111.76 0)
+			(at 147.32 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5779,7 +5779,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 41.91 138.43 0)
+		(at 41.91 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5788,7 +5788,7 @@
 		(fields_autoplaced yes)
 		(uuid "60db1325-289d-4995-a821-91f1c49233d4")
 		(property "Reference" "SW16"
-			(at 41.91 130.81 0)
+			(at 41.91 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5796,15 +5796,15 @@
 			)
 		)
 		(property "Value" "CAPS_SHIFT"
-			(at 41.91 133.35 0)
+			(at 41.91 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 41.91 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5813,7 +5813,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 138.43 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5822,7 +5822,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 41.91 138.43 0)
+			(at 41.91 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5938,7 +5938,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 111.76 93.98 0)
+		(at 111.76 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5947,7 +5947,7 @@
 		(fields_autoplaced yes)
 		(uuid "61656456-eeb1-4175-b8a2-7e48e8b5e972")
 		(property "Reference" "SW10"
-			(at 111.76 86.36 0)
+			(at 111.76 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5955,15 +5955,15 @@
 			)
 		)
 		(property "Value" "T"
-			(at 111.76 88.9 0)
+			(at 111.76 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 111.76 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 111.76 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5972,7 +5972,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 93.98 0)
+			(at 111.76 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5981,7 +5981,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 111.76 93.98 0)
+			(at 111.76 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6032,7 +6032,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 57.15 173.99 0)
 			(effects
 				(font
@@ -6070,7 +6070,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 78.74 165.1 0)
+		(at 68.58 165.1 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6079,7 +6079,7 @@
 		(fields_autoplaced yes)
 		(uuid "71942643-2c2f-4f13-8e4e-9e477f731462")
 		(property "Reference" "H4"
-			(at 81.28 163.8299 0)
+			(at 71.12 163.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6088,7 +6088,7 @@
 			)
 		)
 		(property "Value" "PCB"
-			(at 81.28 166.3699 0)
+			(at 71.12 166.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6096,8 +6096,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 78.74 165.1 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 68.58 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6106,7 +6106,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 78.74 165.1 0)
+			(at 68.58 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6115,7 +6115,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 78.74 165.1 0)
+			(at 68.58 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6134,7 +6134,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 95.25 138.43 0)
+		(at 95.25 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6143,7 +6143,7 @@
 		(fields_autoplaced yes)
 		(uuid "723a7b64-928a-4c5d-b21d-e15b6a6c7f9b")
 		(property "Reference" "SW19"
-			(at 95.25 130.81 0)
+			(at 95.25 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6151,15 +6151,15 @@
 			)
 		)
 		(property "Value" "C"
-			(at 95.25 133.35 0)
+			(at 95.25 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 95.25 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 95.25 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6168,7 +6168,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 138.43 0)
+			(at 95.25 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6177,7 +6177,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 95.25 138.43 0)
+			(at 95.25 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6202,7 +6202,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 36.83 173.99 0)
+		(at 46.99 173.99 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6211,7 +6211,7 @@
 		(fields_autoplaced yes)
 		(uuid "76e1ee6b-c564-409d-82cb-567b136e9871")
 		(property "Reference" "H5"
-			(at 39.37 172.7199 0)
+			(at 49.53 172.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6220,7 +6220,7 @@
 			)
 		)
 		(property "Value" "PCB"
-			(at 39.37 175.2599 0)
+			(at 49.53 175.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6228,8 +6228,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 36.83 173.99 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 46.99 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6238,7 +6238,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 36.83 173.99 0)
+			(at 46.99 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6247,7 +6247,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 36.83 173.99 0)
+			(at 46.99 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6290,7 +6290,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 199.39 77.47 0)
 			(effects
 				(font
@@ -6358,7 +6358,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Horizontal"
 			(at 254 100.33 0)
 			(effects
 				(font
@@ -6447,7 +6447,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 59.69 111.76 0)
+		(at 59.69 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6456,7 +6456,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c82c13d-46f3-433a-996a-d2e6fa3742e7")
 		(property "Reference" "SW12"
-			(at 59.69 104.14 0)
+			(at 59.69 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6464,15 +6464,15 @@
 			)
 		)
 		(property "Value" "S"
-			(at 59.69 106.68 0)
+			(at 59.69 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 59.69 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 59.69 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6481,7 +6481,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.69 111.76 0)
+			(at 59.69 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6490,7 +6490,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 59.69 111.76 0)
+			(at 59.69 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6515,7 +6515,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 59.69 138.43 0)
+		(at 59.69 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6524,7 +6524,7 @@
 		(fields_autoplaced yes)
 		(uuid "803b0cd6-a850-49f6-afb6-cb971dc73728")
 		(property "Reference" "SW17"
-			(at 59.69 130.81 0)
+			(at 59.69 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6532,15 +6532,15 @@
 			)
 		)
 		(property "Value" "Z"
-			(at 59.69 133.35 0)
+			(at 59.69 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 59.69 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 59.69 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6549,7 +6549,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.69 138.43 0)
+			(at 59.69 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6558,7 +6558,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 59.69 138.43 0)
+			(at 59.69 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6583,7 +6583,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 58.42 165.1 0)
+		(at 57.15 165.1 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6592,7 +6592,7 @@
 		(fields_autoplaced yes)
 		(uuid "813bf41f-a520-43ce-8965-dddf0c533612")
 		(property "Reference" "H3"
-			(at 60.96 163.8299 0)
+			(at 59.69 163.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6600,8 +6600,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
-			(at 60.96 166.3699 0)
+		(property "Value" "PCB"
+			(at 59.69 166.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6609,8 +6609,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 58.42 165.1 0)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 57.15 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6619,7 +6619,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 58.42 165.1 0)
+			(at 57.15 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6628,7 +6628,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 58.42 165.1 0)
+			(at 57.15 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6671,7 +6671,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 87.63 42.418 90)
 			(effects
 				(font
@@ -6715,7 +6715,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 199.39 111.76 0)
+		(at 199.39 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6724,7 +6724,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b79e4ad-51c7-43f2-8a38-b7346dd3a0e2")
 		(property "Reference" "SW39"
-			(at 199.39 104.14 0)
+			(at 199.39 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6732,15 +6732,15 @@
 			)
 		)
 		(property "Value" "ENTER"
-			(at 199.39 106.68 0)
+			(at 199.39 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 199.39 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 199.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6749,7 +6749,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 111.76 0)
+			(at 199.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6758,7 +6758,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 199.39 111.76 0)
+			(at 199.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6783,7 +6783,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 41.91 111.76 0)
+		(at 41.91 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6792,7 +6792,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b278584-78e6-4f75-ad54-8fba7a53f6e2")
 		(property "Reference" "SW11"
-			(at 41.91 104.14 0)
+			(at 41.91 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6800,15 +6800,15 @@
 			)
 		)
 		(property "Value" "A"
-			(at 41.91 106.68 0)
+			(at 41.91 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 41.91 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 41.91 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6817,7 +6817,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 111.76 0)
+			(at 41.91 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6826,7 +6826,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 41.91 111.76 0)
+			(at 41.91 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6851,7 +6851,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 77.47 138.43 0)
+		(at 77.47 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6860,7 +6860,7 @@
 		(fields_autoplaced yes)
 		(uuid "9bf3557b-576a-4979-874c-cc0fbf8c3d21")
 		(property "Reference" "SW18"
-			(at 77.47 130.81 0)
+			(at 77.47 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6868,15 +6868,15 @@
 			)
 		)
 		(property "Value" "X"
-			(at 77.47 133.35 0)
+			(at 77.47 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 77.47 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 77.47 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6885,7 +6885,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 77.47 138.43 0)
+			(at 77.47 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6894,7 +6894,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 77.47 138.43 0)
+			(at 77.47 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6919,7 +6919,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 95.25 111.76 0)
+		(at 95.25 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6928,7 +6928,7 @@
 		(fields_autoplaced yes)
 		(uuid "a03f3df9-2104-417f-bb19-c6d1837cf7fd")
 		(property "Reference" "SW14"
-			(at 95.25 104.14 0)
+			(at 95.25 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6936,15 +6936,15 @@
 			)
 		)
 		(property "Value" "F"
-			(at 95.25 106.68 0)
+			(at 95.25 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 95.25 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 95.25 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6953,7 +6953,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 111.76 0)
+			(at 95.25 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6962,7 +6962,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 95.25 111.76 0)
+			(at 95.25 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7011,7 +7011,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 95.25 77.47 0)
 			(effects
 				(font
@@ -7055,7 +7055,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 199.39 138.43 0)
+		(at 199.39 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7064,7 +7064,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1ac8263-4491-4a26-939d-b6a7c1a7bed7")
 		(property "Reference" "SW40"
-			(at 199.39 130.81 0)
+			(at 199.39 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7072,15 +7072,15 @@
 			)
 		)
 		(property "Value" "BREAK_SPACE"
-			(at 199.39 133.35 0)
+			(at 199.39 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 199.39 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 199.39 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7089,7 +7089,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 138.43 0)
+			(at 199.39 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7098,7 +7098,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 199.39 138.43 0)
+			(at 199.39 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7123,7 +7123,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 199.39 93.98 0)
+		(at 199.39 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7132,7 +7132,7 @@
 		(fields_autoplaced yes)
 		(uuid "a6603258-ccf2-4616-b8c2-dcadf11bcab3")
 		(property "Reference" "SW38"
-			(at 199.39 86.36 0)
+			(at 199.39 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7140,15 +7140,15 @@
 			)
 		)
 		(property "Value" "P"
-			(at 199.39 88.9 0)
+			(at 199.39 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 199.39 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 199.39 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7157,7 +7157,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 93.98 0)
+			(at 199.39 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7166,7 +7166,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 199.39 93.98 0)
+			(at 199.39 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7215,7 +7215,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 168.91 36.83 0)
 			(effects
 				(font
@@ -7259,7 +7259,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 129.54 111.76 0)
+		(at 129.54 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7268,7 +7268,7 @@
 		(fields_autoplaced yes)
 		(uuid "a7d12eed-62e3-4f6f-9d1a-a4ce50a0951b")
 		(property "Reference" "SW23"
-			(at 129.54 104.14 0)
+			(at 129.54 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7276,15 +7276,15 @@
 			)
 		)
 		(property "Value" "H"
-			(at 129.54 106.68 0)
+			(at 129.54 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 129.54 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 129.54 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7293,7 +7293,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 111.76 0)
+			(at 129.54 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7302,7 +7302,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 129.54 111.76 0)
+			(at 129.54 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7351,7 +7351,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 129.54 77.47 0)
 			(effects
 				(font
@@ -7419,7 +7419,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 59.69 77.47 0)
 			(effects
 				(font
@@ -7463,7 +7463,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 111.76 138.43 0)
+		(at 111.76 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7472,7 +7472,7 @@
 		(fields_autoplaced yes)
 		(uuid "d008c8e1-1ee7-48f8-83b0-b581bc697f98")
 		(property "Reference" "SW20"
-			(at 111.76 130.81 0)
+			(at 111.76 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7480,15 +7480,15 @@
 			)
 		)
 		(property "Value" "V"
-			(at 111.76 133.35 0)
+			(at 111.76 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 111.76 138.43 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 111.76 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7497,7 +7497,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 138.43 0)
+			(at 111.76 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7506,7 +7506,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 111.76 138.43 0)
+			(at 111.76 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7531,7 +7531,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 182.88 111.76 0)
+		(at 182.88 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7540,7 +7540,7 @@
 		(fields_autoplaced yes)
 		(uuid "d119064e-cf97-498a-9f7f-6089cadebd86")
 		(property "Reference" "SW35"
-			(at 182.88 104.14 0)
+			(at 182.88 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7548,15 +7548,15 @@
 			)
 		)
 		(property "Value" "L"
-			(at 182.88 106.68 0)
+			(at 182.88 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 182.88 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7565,7 +7565,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 182.88 111.76 0)
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7574,7 +7574,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 182.88 111.76 0)
+			(at 182.88 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7625,7 +7625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 245.11 31.75 0)
 			(effects
 				(font
@@ -7689,7 +7689,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 224.79 41.91 0)
 			(effects
 				(font
@@ -7733,7 +7733,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 111.76 111.76 0)
+		(at 111.76 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7742,7 +7742,7 @@
 		(fields_autoplaced yes)
 		(uuid "db7a6e22-ac78-4bb8-85d1-a3a71f8cfd7c")
 		(property "Reference" "SW15"
-			(at 111.76 104.14 0)
+			(at 111.76 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7750,15 +7750,15 @@
 			)
 		)
 		(property "Value" "G"
-			(at 111.76 106.68 0)
+			(at 111.76 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 111.76 111.76 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 111.76 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7767,7 +7767,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 111.76 111.76 0)
+			(at 111.76 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7776,7 +7776,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 111.76 111.76 0)
+			(at 111.76 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7825,7 +7825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 182.88 77.47 0)
 			(effects
 				(font
@@ -7869,7 +7869,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 129.54 93.98 0)
+		(at 129.54 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7878,7 +7878,7 @@
 		(fields_autoplaced yes)
 		(uuid "f179b2a2-59c3-4c15-9b5e-2bb3b085c557")
 		(property "Reference" "SW22"
-			(at 129.54 86.36 0)
+			(at 129.54 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7886,15 +7886,15 @@
 			)
 		)
 		(property "Value" "Y"
-			(at 129.54 88.9 0)
+			(at 129.54 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 129.54 93.98 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+			(at 129.54 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7903,7 +7903,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 93.98 0)
+			(at 129.54 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7912,7 +7912,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 129.54 93.98 0)
+			(at 129.54 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7961,7 +7961,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
 			(at 165.1 77.47 0)
 			(effects
 				(font
@@ -8031,7 +8031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 245.11 38.1 0)
 			(effects
 				(font
@@ -8095,7 +8095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 245.11 44.45 0)
 			(effects
 				(font
