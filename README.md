@@ -6,6 +6,8 @@ My Нафаня is serial no. 00872.<br>
 
 My particular example has a nice, ceramic Z80 from DDR (East Germany) as well as a ceramic БМК (Basic Matrix Crystal, Soviet version of a ULA or Gate Array).<br>
 
+It looked like the original, good quality capacitors were removed from my machine due to their precious-metal content.  They were substituted with poor quality replacements.  I, in turn, replaced them with better quality ones ... this greatly stabilised the RGB video output!  I also added a lot more decoupling capacitors - there was provision for them on the board but they were not installed.<br>
+
 ![Nafanya motherboard](/Images/Nafanya_motherboard_modified.jpeg)
 
 ## [Video](https://www.youtube.com/playlist?list=PL5pwokf56wMLiZ0rl97ZL9QdxtgF-uewT)
