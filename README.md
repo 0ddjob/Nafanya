@@ -8,7 +8,7 @@ My particular example has a nice, ceramic Z80 from DDR (East Germany) as well as
 
 ![Nafanya motherboard](/Images/Nafanya_motherboard_modified.jpeg)
 
-## ROM
+## [ROM](/ROM)
 The ROM from my machine can be found in this repository.
 
 ## [New Keyboard](/Nafanya_Keyboard)
