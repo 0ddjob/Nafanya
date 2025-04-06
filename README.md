@@ -8,6 +8,12 @@ My particular example has a nice, ceramic Z80 from DDR (East Germany) as well as
 
 ![Nafanya motherboard](/Images/Nafanya_motherboard_modified.jpeg)
 
+## [Video](https://www.youtube.com/playlist?list=PL5pwokf56wMLiZ0rl97ZL9QdxtgF-uewT)
+My YouTube videos:
+- [Нафаня ZX Spectrum Clone: Part 1 (Power On & Troubleshooting)](https://youtu.be/pPQIZv7UhS0)
+- [Нафаня ZX Spectrum Clone: Part 2 (Quick Update)](https://youtu.be/jH4AOVMjng8)
+- [Нафаня ZX Spectrum Clone: Part 3 (Replacement Keyboard Plans)](https://youtu.be/gZ2KwFe9IKs)
+
 ## [ROM](/ROM)
 The ROM from my machine can be found in this repository.
 
