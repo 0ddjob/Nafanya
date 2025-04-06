@@ -18,7 +18,8 @@ My YouTube videos:
 
 ## [ROM](/ROM)
 The ROM from my machine can be found in this repository.<br>
-It has a pretty cool boot screen:<br>
+
+It has a pretty cool boot screen - I assume this is depicting the character "Нафаня" the computer is named after, a домовой (domovoy, or house spirit) from the Soviet animated film series "Домовёнок Кузя" (Domovyonok Kuzya, or "Kuzya the Little Domovoy") which is based on a children's book by Tatiana Aleksandrova.<br>
 
 ![Nafanya boot screen](/Images/Нафаня_Boot_Screen.png)
 
