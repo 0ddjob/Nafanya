@@ -15,7 +15,8 @@ My YouTube videos:
 - [Part 3 (Replacement Keyboard Plans)](https://youtu.be/gZ2KwFe9IKs)
 
 ## [ROM](/ROM)
-The ROM from my machine can be found in this repository.  It has a pretty cool boot screen:<br>
+The ROM from my machine can be found in this repository.<br>
+It has a pretty cool boot screen:<br>
 
 ![Nafanya boot screen](/Images/Нафаня_Boot_Screen.png)
 
