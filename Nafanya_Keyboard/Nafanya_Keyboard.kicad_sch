@@ -1380,599 +1380,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:R_Network08"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "RN"
-				(at -12.7 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "R_Network08"
-				(at 10.16 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Resistor_THT:R_Array_SIP9"
-				(at 12.065 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "8 resistor network, star topology, bussed resistors, small symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "R network star-topology"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R?Array?SIP*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R_Network08_0_1"
-				(rectangle
-					(start -11.43 -3.175)
-					(end 8.89 3.175)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -10.922 1.524)
-					(end -9.398 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -10.16 2.286)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -10.16 1.524) (xy -10.16 2.286) (xy -7.62 2.286) (xy -7.62 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -10.16 -2.54) (xy -10.16 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -8.382 1.524)
-					(end -6.858 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -7.62 2.286)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 1.524) (xy -7.62 2.286) (xy -5.08 2.286) (xy -5.08 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -7.62 -2.54) (xy -7.62 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -5.842 1.524)
-					(end -4.318 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -5.08 2.286)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 1.524) (xy -5.08 2.286) (xy -2.54 2.286) (xy -2.54 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 -2.54) (xy -5.08 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -3.302 1.524)
-					(end -1.778 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.54 2.286)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 1.524) (xy -2.54 2.286) (xy 0 2.286) (xy 0 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -2.54) (xy -2.54 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -0.762 1.524)
-					(end 0.762 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 2.286)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.524) (xy 0 2.286) (xy 2.54 2.286) (xy 2.54 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 1.778 1.524)
-					(end 3.302 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 2.286)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.524) (xy 2.54 2.286) (xy 5.08 2.286) (xy 5.08 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 4.318 1.524)
-					(end 5.842 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 5.08 2.286)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 1.524) (xy 5.08 2.286) (xy 7.62 2.286) (xy 7.62 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -2.54) (xy 5.08 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 6.858 1.524)
-					(end 8.382 -2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -2.54) (xy 7.62 -3.81)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_Network08_1_1"
-				(pin passive line
-					(at -10.16 5.08 270)
-					(length 2.54)
-					(name "common"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -10.16 -5.08 90)
-					(length 1.27)
-					(name "R1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -5.08 90)
-					(length 1.27)
-					(name "R2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 90)
-					(length 1.27)
-					(name "R3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -5.08 90)
-					(length 1.27)
-					(name "R4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 1.27)
-					(name "R5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 1.27)
-					(name "R6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -5.08 90)
-					(length 1.27)
-					(name "R7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -5.08 90)
-					(length 1.27)
-					(name "R8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:Speaker"
 			(pin_names
 				(offset 0)
@@ -2508,6 +1915,106 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "RESET BUTTON"
+		(exclude_from_sim no)
+		(at 175.26 24.13 0)
+		(size 34.29 20.32)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "05872c11-070d-4c05-b200-aec23f7b35cd")
+	)
+	(text_box "MOUNTING HOLES"
+		(exclude_from_sim no)
+		(at 59.69 171.45 0)
+		(size 35.56 16.51)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "0723e892-cf63-4eb9-b178-a274741987e1")
+	)
+	(text_box "POWER LED"
+		(exclude_from_sim no)
+		(at 55.88 25.4 0)
+		(size 48.26 20.32)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "65b7bd41-5ef2-495a-9012-791ba25db1ae")
+	)
+	(text_box "SPEAKER"
+		(exclude_from_sim no)
+		(at 109.22 171.45 0)
+		(size 49.53 16.51)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "9b1e5b58-28ea-444b-b3ea-ca7f7d26269c")
+	)
+	(text_box "ROW PULLUP RESISTORS"
+		(exclude_from_sim no)
+		(at 121.92 21.59 0)
+		(size 39.37 30.48)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "d82406c1-d28b-4a78-8937-5cae61c399e7")
+	)
 	(junction
 		(at 74.93 104.14)
 		(diameter 0)
@@ -2611,6 +2118,12 @@
 		(uuid "44ab0341-054b-455c-a135-2550b8e1cb30")
 	)
 	(junction
+		(at 148.59 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a121136-154e-493b-b982-2710e4ab58b0")
+	)
+	(junction
 		(at 180.34 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2671,6 +2184,12 @@
 		(uuid "7975f86d-4ea1-40db-a565-c16f138d2000")
 	)
 	(junction
+		(at 133.35 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b530a5f-f4f6-418f-88b7-1e8360167122")
+	)
+	(junction
 		(at 57.15 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2683,10 +2202,28 @@
 		(uuid "7fb403c2-b890-4dd3-8428-002c29444c2e")
 	)
 	(junction
+		(at 140.97 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "899bffa1-60f2-463b-8a4d-cc691cf5f02a")
+	)
+	(junction
 		(at 62.23 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c891b39-02ca-43ec-82c2-39e678e1a255")
+	)
+	(junction
+		(at 135.89 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f2587b0-5228-4606-8cb7-c11679f59a09")
+	)
+	(junction
+		(at 138.43 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ce3ede0-c2e7-4477-b3de-f80e94c14e4c")
 	)
 	(junction
 		(at 39.37 82.55)
@@ -2725,6 +2262,12 @@
 		(uuid "b63c38fa-64a7-44db-8aff-8a330531c0a1")
 	)
 	(junction
+		(at 143.51 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b7896fcc-3862-42c2-8cf6-3970d63b6463")
+	)
+	(junction
 		(at 167.64 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2747,6 +2290,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c14bb02a-1c24-41a6-84fe-cd6dc92a63e4")
+	)
+	(junction
+		(at 146.05 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4e39790-8c71-4c7e-983f-3397dc55f04a")
 	)
 	(junction
 		(at 185.42 123.19)
@@ -2834,7 +2383,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 33.02) (xy 115.57 35.56)
+			(xy 133.35 29.21) (xy 133.35 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2861,6 +2410,16 @@
 			(type default)
 		)
 		(uuid "053f8cd2-5aad-4e34-98c8-e7e4c9290890")
+	)
+	(wire
+		(pts
+			(xy 146.05 34.29) (xy 148.59 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0913ab2e-1b06-49e4-bb41-538a6a857078")
 	)
 	(wire
 		(pts
@@ -2951,6 +2510,16 @@
 			(type default)
 		)
 		(uuid "1cb13df4-e706-4abe-94b7-2d460fae61ab")
+	)
+	(wire
+		(pts
+			(xy 148.59 34.29) (xy 151.13 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "230abc10-3714-42de-85bc-b6d6119db0fc")
 	)
 	(wire
 		(pts
@@ -3144,6 +2713,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 34.29) (xy 146.05 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "642af6c4-eaae-4d17-9a75-3982b33d2ce7")
+	)
+	(wire
+		(pts
 			(xy 196.85 74.93) (xy 196.85 82.55)
 		)
 		(stroke
@@ -3204,6 +2783,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 34.29) (xy 143.51 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8208b810-80f9-42cd-bd43-67fd9ef12e99")
+	)
+	(wire
+		(pts
 			(xy 167.64 109.22) (xy 185.42 109.22)
 		)
 		(stroke
@@ -3234,6 +2823,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 34.29) (xy 140.97 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87d062d6-ebfa-4214-bb2a-a2e1b04a53bf")
+	)
+	(wire
+		(pts
 			(xy 97.79 109.22) (xy 114.3 109.22)
 		)
 		(stroke
@@ -3251,6 +2850,16 @@
 			(type default)
 		)
 		(uuid "8a8ce846-87bb-4cea-a5ac-042327cc7fe8")
+	)
+	(wire
+		(pts
+			(xy 135.89 34.29) (xy 138.43 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f199024-a7b6-4cdf-b301-d7a6fce91bad")
 	)
 	(wire
 		(pts
@@ -3544,6 +3153,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 34.29) (xy 135.89 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e67d4d2f-884e-4121-bd75-f4875694de0b")
+	)
+	(wire
+		(pts
 			(xy 74.93 91.44) (xy 162.56 91.44)
 		)
 		(stroke
@@ -3666,7 +3285,7 @@
 	)
 	(global_label "ROW2"
 		(shape input)
-		(at 118.11 45.72 270)
+		(at 135.89 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3676,7 +3295,7 @@
 		)
 		(uuid "0821b6a1-6537-400d-b6bf-40ff6be1227f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.11 53.9666 90)
+			(at 135.89 50.1566 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3732,7 +3351,7 @@
 	)
 	(global_label "SPEAKER"
 		(shape input)
-		(at 254 58.42 0)
+		(at 254 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3742,7 +3361,7 @@
 		)
 		(uuid "11fcb905-8800-4633-b8e9-207543e9dd0c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 265.3913 58.42 0)
+			(at 265.3913 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3974,7 +3593,7 @@
 	)
 	(global_label "ROW7"
 		(shape input)
-		(at 130.81 45.72 270)
+		(at 148.59 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3984,7 +3603,7 @@
 		)
 		(uuid "46caa7de-fd47-4261-8b95-378219c657bf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.81 53.9666 90)
+			(at 148.59 50.1566 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4040,7 +3659,7 @@
 	)
 	(global_label "ROW1"
 		(shape input)
-		(at 115.57 45.72 270)
+		(at 133.35 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4050,7 +3669,7 @@
 		)
 		(uuid "564441dc-3710-4b39-a89a-cb0b37eb2ede")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.57 53.9666 90)
+			(at 133.35 50.1566 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4084,7 +3703,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 173.99 41.91 0)
+		(at 200.66 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4094,7 +3713,7 @@
 		)
 		(uuid "65549c97-fd8b-40d3-978f-082383a290eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 180.8457 41.91 0)
+			(at 207.5157 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4106,7 +3725,7 @@
 	)
 	(global_label "ROW8"
 		(shape input)
-		(at 133.35 45.72 270)
+		(at 151.13 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4116,7 +3735,7 @@
 		)
 		(uuid "662ff837-5414-47d7-aa84-81a456947ce6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.35 53.9666 90)
+			(at 151.13 50.1566 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4172,7 +3791,7 @@
 	)
 	(global_label "ROW6"
 		(shape input)
-		(at 128.27 45.72 270)
+		(at 146.05 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4182,7 +3801,7 @@
 		)
 		(uuid "7b4cac94-d0f0-43b0-945e-8bf341a7a4ce")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 128.27 53.9666 90)
+			(at 146.05 50.1566 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4194,7 +3813,7 @@
 	)
 	(global_label "ROW5"
 		(shape input)
-		(at 125.73 45.72 270)
+		(at 143.51 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4204,7 +3823,7 @@
 		)
 		(uuid "8323683a-1edf-4c6c-928b-8e42eed75173")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.73 53.9666 90)
+			(at 143.51 50.1566 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4216,7 +3835,7 @@
 	)
 	(global_label "ROW4"
 		(shape input)
-		(at 123.19 45.72 270)
+		(at 140.97 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4226,7 +3845,7 @@
 		)
 		(uuid "8556dc02-2e87-47c0-bdcf-14f64a4ece3e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.19 53.9666 90)
+			(at 140.97 50.1566 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4260,7 +3879,7 @@
 	)
 	(global_label "ROW3"
 		(shape input)
-		(at 120.65 45.72 270)
+		(at 138.43 41.91 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4270,7 +3889,7 @@
 		)
 		(uuid "9515805e-56b1-415d-8830-35574164dec9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 120.65 53.9666 90)
+			(at 138.43 50.1566 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4304,7 +3923,7 @@
 	)
 	(global_label "SPEAKER"
 		(shape input)
-		(at 219.71 36.83 180)
+		(at 123.19 179.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4314,7 +3933,7 @@
 		)
 		(uuid "9d6748da-0d26-48c2-809b-a9f742abf633")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 208.3187 36.83 0)
+			(at 111.7987 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4326,7 +3945,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 219.71 39.37 180)
+		(at 123.19 181.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4336,7 +3955,7 @@
 		)
 		(uuid "9ef665d5-a42a-4433-92a4-ded758f14537")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 212.8543 39.37 0)
+			(at 116.3343 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4414,7 +4033,7 @@
 	)
 	(global_label "+5V"
 		(shape input)
-		(at 115.57 33.02 0)
+		(at 133.35 29.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4424,7 +4043,7 @@
 		)
 		(uuid "aa749e8d-4eba-42cf-9077-7259b12aa1b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.4257 33.02 0)
+			(at 140.2057 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4436,7 +4055,7 @@
 	)
 	(global_label "+5V"
 		(shape input)
-		(at 254 66.04 0)
+		(at 254 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4446,7 +4065,7 @@
 		)
 		(uuid "af9bbbcf-8f40-4cad-b487-7f97ab4ddc7d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 260.8557 66.04 0)
+			(at 260.8557 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4458,7 +4077,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 163.83 41.91 180)
+		(at 190.5 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4468,7 +4087,7 @@
 		)
 		(uuid "b4168bc6-fe7d-43e9-8ce8-7dc11dc69764")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 155.0997 41.91 0)
+			(at 181.7697 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4680,7 +4299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 77.47 77.47 0)
 			(effects
 				(font
@@ -4748,7 +4367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 77.47 120.65 0)
 			(effects
 				(font
@@ -4816,7 +4435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 41.91 106.68 0)
 			(effects
 				(font
@@ -4884,7 +4503,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 111.76 77.47 0)
 			(effects
 				(font
@@ -5029,7 +4648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 165.1 120.65 0)
 			(effects
 				(font
@@ -5097,7 +4716,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 147.32 106.68 0)
 			(effects
 				(font
@@ -5165,7 +4784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 182.88 139.7 0)
 			(effects
 				(font
@@ -5233,7 +4852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 165.1 139.7 0)
 			(effects
 				(font
@@ -5301,7 +4920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 129.54 139.7 0)
 			(effects
 				(font
@@ -5344,17 +4963,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 68.58 173.99 0)
+		(lib_id "Device:R")
+		(at 133.35 38.1 0)
 		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
+		(exclude_from_sim no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2214496c-0857-464e-9ef3-dc28c45deb3b")
-		(property "Reference" "H7"
-			(at 71.12 172.7199 0)
+		(uuid "210b4c62-e302-42aa-9cc3-0f251b061f65")
+		(property "Reference" "R2"
+			(at 125.476 37.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5362,8 +4980,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PCB"
-			(at 71.12 175.2599 0)
+		(property "Value" "10KΩ"
+			(at 125.476 39.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5371,8 +4989,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 68.58 173.99 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 131.572 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5381,7 +4999,147 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 173.99 0)
+			(at 133.35 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 133.35 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "48d7db53-e38d-4021-84de-4e02c574a8e6")
+		)
+		(pin "2"
+			(uuid "de90fd13-bb29-49e6-8d1f-b246597b7af2")
+		)
+		(instances
+			(project ""
+				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 151.13 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21540cb3-9086-428a-8507-bef1b4f6454c")
+		(property "Reference" "R9"
+			(at 153.67 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10KΩ"
+			(at 153.67 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 149.352 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 151.13 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6f1ec6c6-6ff0-42b9-8354-8fb288990355")
+		)
+		(pin "2"
+			(uuid "d4f952a3-89cb-4d01-aa77-1d38747123d8")
+		)
+		(instances
+			(project "Nafanya_Keyboard"
+				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 86.36 184.15 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2214496c-0857-464e-9ef3-dc28c45deb3b")
+		(property "Reference" "H7"
+			(at 88.9 182.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PCB"
+			(at 88.9 185.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 86.36 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5390,7 +5148,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 68.58 173.99 0)
+			(at 86.36 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5433,7 +5191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 77.47 106.68 0)
 			(effects
 				(font
@@ -5501,7 +5259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 147.32 77.47 0)
 			(effects
 				(font
@@ -5544,6 +5302,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 148.59 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d5ce39e-a31f-4008-8264-68ff599726d1")
+		(property "Reference" "R8"
+			(at 151.13 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "10KΩ"
+			(at 151.13 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 146.812 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 148.59 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 148.59 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff69562c-5036-4f5c-87da-d2fdeaf0b86c")
+		)
+		(pin "2"
+			(uuid "4aef1785-8c96-47b0-aa3c-2372cc5df285")
+		)
+		(instances
+			(project "Nafanya_Keyboard"
+				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 41.91 77.47 0)
 		(unit 1)
@@ -5569,7 +5399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 41.91 77.47 0)
 			(effects
 				(font
@@ -5637,7 +5467,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 182.88 106.68 0)
 			(effects
 				(font
@@ -5705,7 +5535,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 147.32 139.7 0)
 			(effects
 				(font
@@ -5749,7 +5579,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 46.99 165.1 0)
+		(at 66.04 177.8 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -5758,7 +5588,7 @@
 		(fields_autoplaced yes)
 		(uuid "4244d7b0-4e1b-4720-ac7e-b368b2a49a54")
 		(property "Reference" "H2"
-			(at 49.53 163.8299 0)
+			(at 68.58 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5767,7 +5597,7 @@
 			)
 		)
 		(property "Value" "PCB"
-			(at 49.53 166.3699 0)
+			(at 68.58 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5776,7 +5606,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 46.99 165.1 0)
+			(at 66.04 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5785,7 +5615,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 165.1 0)
+			(at 66.04 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5794,7 +5624,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 46.99 165.1 0)
+			(at 66.04 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5806,6 +5636,78 @@
 			(project "Nafanya_Keyboard"
 				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
 					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 138.43 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "45379b1e-47cb-4c59-9220-9e194a9f090d")
+		(property "Reference" "R4"
+			(at 140.97 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "10KΩ"
+			(at 140.97 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 136.652 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 138.43 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ca99469b-2c01-49c6-8d6f-e31c411817a5")
+		)
+		(pin "2"
+			(uuid "bbbbee46-4082-4e84-bb4b-f9f5ff8f7e38")
+		)
+		(instances
+			(project "Nafanya_Keyboard"
+				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -5837,7 +5739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 59.69 106.68 0)
 			(effects
 				(font
@@ -5905,7 +5807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 95.25 106.68 0)
 			(effects
 				(font
@@ -6047,7 +5949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 165.1 106.68 0)
 			(effects
 				(font
@@ -6115,7 +6017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 147.32 120.65 0)
 			(effects
 				(font
@@ -6183,7 +6085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 41.91 139.7 0)
 			(effects
 				(font
@@ -6226,97 +6128,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Network08")
-		(at 125.73 40.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6161bb16-41f6-48e4-9878-fa17356fc721")
-		(property "Reference" "RN1"
-			(at 135.89 39.6239 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "9.1KΩ"
-			(at 135.89 42.1639 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP9"
-			(at 137.795 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.vishay.com/docs/31509/csc.pdf"
-			(at 125.73 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "8 resistor network, star topology, bussed resistors, small symbol"
-			(at 125.73 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "9"
-			(uuid "91f775eb-ada7-4f91-b3dd-9acbfb76a934")
-		)
-		(pin "4"
-			(uuid "6234f340-84c3-4f2e-a9e2-f7ce18638444")
-		)
-		(pin "2"
-			(uuid "32b1553c-f26d-4f23-8ef6-e2397a796e85")
-		)
-		(pin "7"
-			(uuid "33563d1d-2634-4e60-aa89-731deb49bfc4")
-		)
-		(pin "8"
-			(uuid "8dc28904-1d01-40d0-984c-d63afefefb6a")
-		)
-		(pin "5"
-			(uuid "af8bedb5-896d-4e8b-bc4c-9a197210a81c")
-		)
-		(pin "6"
-			(uuid "f1c28d9d-7f16-481c-a795-7899f07e66b6")
-		)
-		(pin "3"
-			(uuid "655b1463-8ca7-4202-bda0-922cb86387c6")
-		)
-		(pin "1"
-			(uuid "aee7dd31-d58c-4dfd-9b2b-223989074641")
-		)
-		(instances
-			(project ""
-				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
-					(reference "RN1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 111.76 106.68 0)
 		(unit 1)
@@ -6342,7 +6153,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 111.76 106.68 0)
 			(effects
 				(font
@@ -6450,35 +6261,37 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 57.15 173.99 0)
+		(lib_id "Device:R")
+		(at 143.51 38.1 0)
 		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
+		(exclude_from_sim no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6dd57786-f83b-4d92-be47-9874dcefc268")
-		(property "Reference" "H6"
-			(at 59.69 172.7199 0)
+		(uuid "69a9c9ac-0422-4b8e-a4b3-cdd7e06351ec")
+		(property "Reference" "R6"
+			(at 146.05 36.8299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "PCB"
-			(at 59.69 175.2599 0)
+		(property "Value" "10KΩ"
+			(at 146.05 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 57.15 173.99 0)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 141.732 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6487,7 +6300,77 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 173.99 0)
+			(at 143.51 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 143.51 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c3aae02-3f16-473f-9652-198e4db2b7a9")
+		)
+		(pin "2"
+			(uuid "941c56e4-85bc-4a78-8621-db622ed31127")
+		)
+		(instances
+			(project "Nafanya_Keyboard"
+				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 76.2 184.15 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6dd57786-f83b-4d92-be47-9874dcefc268")
+		(property "Reference" "H6"
+			(at 78.74 182.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PCB"
+			(at 78.74 185.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 76.2 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 76.2 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6496,7 +6379,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 57.15 173.99 0)
+			(at 76.2 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6515,7 +6398,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 68.58 165.1 0)
+		(at 86.36 177.8 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6524,7 +6407,7 @@
 		(fields_autoplaced yes)
 		(uuid "71942643-2c2f-4f13-8e4e-9e477f731462")
 		(property "Reference" "H4"
-			(at 71.12 163.8299 0)
+			(at 88.9 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6533,7 +6416,7 @@
 			)
 		)
 		(property "Value" "PCB"
-			(at 71.12 166.3699 0)
+			(at 88.9 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6542,7 +6425,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 68.58 165.1 0)
+			(at 86.36 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6551,7 +6434,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 165.1 0)
+			(at 86.36 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6560,7 +6443,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 68.58 165.1 0)
+			(at 86.36 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6603,7 +6486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 95.25 139.7 0)
 			(effects
 				(font
@@ -6647,7 +6530,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 46.99 173.99 0)
+		(at 66.04 184.15 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -6656,7 +6539,7 @@
 		(fields_autoplaced yes)
 		(uuid "76e1ee6b-c564-409d-82cb-567b136e9871")
 		(property "Reference" "H5"
-			(at 49.53 172.7199 0)
+			(at 68.58 182.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6665,7 +6548,7 @@
 			)
 		)
 		(property "Value" "PCB"
-			(at 49.53 175.2599 0)
+			(at 68.58 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6674,7 +6557,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 46.99 173.99 0)
+			(at 66.04 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6683,7 +6566,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 173.99 0)
+			(at 66.04 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6692,7 +6575,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 46.99 173.99 0)
+			(at 66.04 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6735,7 +6618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 199.39 77.47 0)
 			(effects
 				(font
@@ -6880,7 +6763,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 59.69 120.65 0)
 			(effects
 				(font
@@ -6948,7 +6831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 59.69 139.7 0)
 			(effects
 				(font
@@ -6992,7 +6875,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 57.15 165.1 0)
+		(at 76.2 177.8 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -7001,7 +6884,7 @@
 		(fields_autoplaced yes)
 		(uuid "813bf41f-a520-43ce-8965-dddf0c533612")
 		(property "Reference" "H3"
-			(at 59.69 163.8299 0)
+			(at 78.74 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7010,7 +6893,7 @@
 			)
 		)
 		(property "Value" "PCB"
-			(at 59.69 166.3699 0)
+			(at 78.74 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7019,7 +6902,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 57.15 165.1 0)
+			(at 76.2 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7028,7 +6911,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 165.1 0)
+			(at 76.2 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7037,7 +6920,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 57.15 165.1 0)
+			(at 76.2 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7148,7 +7031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 199.39 120.65 0)
 			(effects
 				(font
@@ -7216,7 +7099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 41.91 120.65 0)
 			(effects
 				(font
@@ -7284,7 +7167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 77.47 139.7 0)
 			(effects
 				(font
@@ -7352,7 +7235,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 95.25 120.65 0)
 			(effects
 				(font
@@ -7420,7 +7303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 95.25 77.47 0)
 			(effects
 				(font
@@ -7488,7 +7371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 199.39 139.7 0)
 			(effects
 				(font
@@ -7531,6 +7414,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 135.89 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a40da6d8-3580-4c45-adfb-0bce400f91be")
+		(property "Reference" "R3"
+			(at 138.43 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "10KΩ"
+			(at 138.43 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 134.112 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 135.89 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8988dfd9-8137-4f8e-b204-7f02960034e8")
+		)
+		(pin "2"
+			(uuid "53a84feb-cde7-40c6-99ef-0e8f987b41a4")
+		)
+		(instances
+			(project "Nafanya_Keyboard"
+				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 199.39 106.68 0)
 		(unit 1)
@@ -7556,7 +7511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 199.39 106.68 0)
 			(effects
 				(font
@@ -7600,7 +7555,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 168.91 41.91 0)
+		(at 195.58 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7609,23 +7564,23 @@
 		(fields_autoplaced yes)
 		(uuid "a6a22aa9-41f1-4c83-a819-8396e212106b")
 		(property "Reference" "SW41"
-			(at 168.91 34.29 0)
+			(at 195.58 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "RESET"
-			(at 168.91 36.83 0)
+		(property "Value" "RESET/СБРОС"
+			(at 195.58 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
-			(at 168.91 36.83 0)
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+			(at 195.58 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7634,7 +7589,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 168.91 36.83 0)
+			(at 195.58 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7643,7 +7598,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 168.91 41.91 0)
+			(at 195.58 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7692,7 +7647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 129.54 120.65 0)
 			(effects
 				(font
@@ -7760,7 +7715,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 129.54 77.47 0)
 			(effects
 				(font
@@ -7828,7 +7783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 59.69 77.47 0)
 			(effects
 				(font
@@ -7896,7 +7851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 111.76 139.7 0)
 			(effects
 				(font
@@ -7939,6 +7894,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 140.97 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0163b76-91ba-4074-af8c-f4d48ae72f3f")
+		(property "Reference" "R5"
+			(at 143.51 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "10KΩ"
+			(at 143.51 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 139.192 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 140.97 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 140.97 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e0723d3-7450-4ec3-af8f-2a1a83cc9d15")
+		)
+		(pin "2"
+			(uuid "0e177da4-b286-43ae-831d-a79e75dfc755")
+		)
+		(instances
+			(project "Nafanya_Keyboard"
+				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 182.88 120.65 0)
 		(unit 1)
@@ -7964,7 +7991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 182.88 120.65 0)
 			(effects
 				(font
@@ -8008,7 +8035,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 245.11 31.75 0)
+		(at 146.05 177.8 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -8017,7 +8044,7 @@
 		(fields_autoplaced yes)
 		(uuid "d477de85-6516-42cb-9512-3e1de773ec91")
 		(property "Reference" "H1"
-			(at 247.65 30.4799 0)
+			(at 148.59 176.5299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8026,7 +8053,7 @@
 			)
 		)
 		(property "Value" "Speaker"
-			(at 247.65 33.0199 0)
+			(at 148.59 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8035,7 +8062,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 245.11 31.75 0)
+			(at 146.05 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8044,7 +8071,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 245.11 31.75 0)
+			(at 146.05 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8053,7 +8080,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 245.11 31.75 0)
+			(at 146.05 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8072,7 +8099,7 @@
 	)
 	(symbol
 		(lib_id "Device:Speaker")
-		(at 224.79 36.83 0)
+		(at 128.27 179.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8081,7 +8108,7 @@
 		(fields_autoplaced yes)
 		(uuid "dae872a7-73e1-4d48-9878-6bc9eee1996d")
 		(property "Reference" "LS1"
-			(at 229.87 36.8299 0)
+			(at 133.35 179.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8090,7 +8117,7 @@
 			)
 		)
 		(property "Value" "Speaker"
-			(at 229.87 39.3699 0)
+			(at 133.35 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8099,7 +8126,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 224.79 41.91 0)
+			(at 128.27 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8108,7 +8135,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.536 38.1 0)
+			(at 128.016 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8117,7 +8144,7 @@
 			)
 		)
 		(property "Description" "Speaker"
-			(at 224.79 36.83 0)
+			(at 128.27 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8166,7 +8193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 111.76 120.65 0)
 			(effects
 				(font
@@ -8320,7 +8347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 182.88 77.47 0)
 			(effects
 				(font
@@ -8363,6 +8390,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 146.05 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e54b49b1-40e9-4753-842f-77265881a2e4")
+		(property "Reference" "R7"
+			(at 148.59 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "10KΩ"
+			(at 148.59 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 144.272 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 146.05 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "85d562b2-6ab7-4c30-bdbb-4b9d05370465")
+		)
+		(pin "2"
+			(uuid "7baed935-a35d-4e3a-a1db-f5e6a11f8371")
+		)
+		(instances
+			(project "Nafanya_Keyboard"
+				(path "/ba73e446-34ef-435e-a765-20e7ca696744"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 129.54 106.68 0)
 		(unit 1)
@@ -8388,7 +8487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 129.54 106.68 0)
 			(effects
 				(font
@@ -8456,7 +8555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H8.5mm"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 165.1 77.47 0)
 			(effects
 				(font
@@ -8500,7 +8599,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 245.11 38.1 0)
+		(at 146.05 184.15 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -8509,7 +8608,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6596361-456e-4c11-8702-581b7136174d")
 		(property "Reference" "H8"
-			(at 247.65 36.8299 0)
+			(at 148.59 182.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8518,7 +8617,7 @@
 			)
 		)
 		(property "Value" "Speaker"
-			(at 247.65 39.3699 0)
+			(at 148.59 185.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8527,7 +8626,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 245.11 38.1 0)
+			(at 146.05 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8536,7 +8635,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 245.11 38.1 0)
+			(at 146.05 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8545,7 +8644,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 245.11 38.1 0)
+			(at 146.05 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
