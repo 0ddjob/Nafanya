@@ -29,4 +29,5 @@ The keyboard is not terribly good. Here is a re-designed one using tactile switc
 ![Modern Nafanya Keyboard](/Images/Nafanya_Keyboard_3D.png)
 
 ### Status
-6-Apr-2025: Still being finalised. The switch positions are slightly off as you go from left to right.
+6-Apr-2025:  Still being finalised. The switch positions are slightly off as you go from left to right.
+17-Apr-2025: Finalised switch layout, sent for test fabrication.
